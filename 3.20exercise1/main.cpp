@@ -5,6 +5,7 @@ using namespace std;
 
 int main() 
 { 
+
 	cv::Mat src = imread("E:\\PIC\\coin.png",0);
 	cv::Mat binaryMat;
 	cv::Mat dst1;
